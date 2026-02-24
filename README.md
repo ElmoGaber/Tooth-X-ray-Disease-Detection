@@ -2,7 +2,7 @@ The use of deep learning and artificial intelligence (AI) in oral health has bro
 
 ![image](https://github.com/ELMOtarek1/Advanced-Tooth-X-ray-Disease-Detection-Using-Depp-Learning-/assets/138802275/9861beef-c0a2-4661-9027-86c4751fde4b)
 
-AI and deep learning, which have transformed healthcare and other fields of medicine, have also had a great impact on radiology. One major area where this technological breakthrough holds great potential is the recognition of dental diseases at their initial stages via assessment of dental X-ray images. By using recent advanced deep learning models in object detection and segmentation such as Faster R-CNN combined with these numbering techniques, medical professionals can greatly enhance accuracy and speed in diagnosis for a range of dental conditions especially those associated with inflammation
+AI and deep learning, which have transformed healthcare and other fields of medicine, have also had a great impact on radiology. One major area where this technological breakthrough holds great potential is the recognition of dental diseases at their initial stages via assessment of dental X-ray images. By using recent advanced deep learning models in object detection and segmentation such as Faster R-CNN combined with these numbering techniques, medical professionals can greatly enhance accuracy and speed in diagnosis for a range of dental conditions especially those associated 
 
 ![image](https://github.com/ELMOtarek1/Advanced-Tooth-X-ray-Disease-Detection-Using-Depp-Learning-/assets/138802275/ab8d910b-9e82-430a-b0dd-8282b63615ad)
 
